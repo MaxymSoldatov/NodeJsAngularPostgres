@@ -1,0 +1,43 @@
+
+html { 
+	overflow-y:scroll; 
+}
+
+body {
+	padding-top:50px; 
+}
+
+#todo-list { 
+	margin:30px;
+}
+
+#todo-form { 
+	margin:50px;
+}
+
+input {
+	border-bottom-style: dashed;
+	border-color: #7a43b6;
+}
+
+
+.doneClass {
+	text-decoration: line-through;
+	color: red;
+	font-size: large;
+
+}
+
+.checkbox{
+	border-color: #3e8f3e;
+	display: inline-block;
+}
+#check{
+	margin-left: 0;
+	position: static;
+}
+#lab{
+	font-family: "Arial Black";
+}
+
+

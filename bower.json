@@ -1,0 +1,19 @@
+{
+  "name": "Angular-PostgreSQL-CRUD",
+  "version": "0.0.1",
+
+  "description": "Tasklist",
+  "ignore": [
+    "**/*.txt",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "angular": "~1.3.10",
+    "angular-route": "~1.3.10"
+  },
+  "private": true
+}

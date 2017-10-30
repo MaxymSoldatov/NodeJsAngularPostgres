@@ -1,0 +1,16 @@
+{
+  "name": "Tasklist",
+  "version": "0.0.1",
+  "main": "node server.js",
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "colors": "^1.0.3",
+    "express": "^4.10.6",
+    "path": "^0.4.9",
+    "pg": "^4.1.1",
+    "serve-favicon": "^2.4.5"
+  },
+  "devDependencies": {
+    "morgan": "~1.1.1"
+  }
+}
